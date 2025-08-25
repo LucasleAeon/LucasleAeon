@@ -2,7 +2,6 @@
 
 <h4>🛠️ 💻 Technical Main Skills:</h4>
 
-<img width="185" align="right" src="./assets/stormunicorn.png" />
 <table align="center">
   <tr>
     <th colspan="7">Programming Languages, Libraries & Frameworks</th>
@@ -57,14 +56,6 @@
 <a href="https://github.com/Dedras-Mion?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Dedras-Mion&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
 Languages and Tools Section-->       
-<h1 align="center">🔧 Languages and Tools Section:</h1>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/Skills_Animation_White.gif">
-    <img align="center" alt="GIF description" src="./assets/Skills_Animation_White.gif">
-  </picture>
-</div>
   
   <!-- 
   https://github.com/keidev123/keidev123/blob/main/README.md
