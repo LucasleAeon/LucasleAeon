@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, Here's MERN Stack Developer for Business & Betting Site</h1>
 
 <h4>🛠️ 💻 Technical Main Skills:</h4>
+<img align="right" src="assets/stormunicorn.png" width="140"/>
 <!-- <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="120" /> -->
 <table align="center">
   <tr>
@@ -50,6 +51,15 @@
 <div align="right">
    <a href="https://github.com/lucasleaeon?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=lucasleaeon&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@StormUnicorn's github-readme-stats"/></a>
    <a href="https://github.com/lucasleaeon?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=lucasleaeon&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@StormUnicorn's github-readme-streak-stats"/></a>
+</div>
+
+<h1 align="center">🔧 Languages and Tools Section:</h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/Skills_Animation_White.gif">
+    <img align="center" alt="GIF description" src="./assets/Skills_Animation_White.gif">
+  </picture>
 </div>
 <!--  
 <div align="center">
