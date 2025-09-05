@@ -12,10 +12,10 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="33" alt="JavaScript" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="33" alt="TypeScript" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="33" alt="Python" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="33" alt="PHP" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="33" alt="C" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="33" alt="HTML" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="33" alt="CSS" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="33" alt="PHP" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="33" alt="C" /></td>
 <!--     <td rowspan="3">
         - Telegram:<br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@stormunicorn<br>
