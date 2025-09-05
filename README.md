@@ -16,12 +16,12 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="33" alt="CSS" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="33" alt="PHP" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="33" alt="C" /></td>
-<!--     <td rowspan="3">
+    <td rowspan="3">
         - Telegram:<br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@stormunicorn<br>
         - Discord:<br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stormunicorn<br>
-    </td> -->
+    </td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="33" height="33"/></td>
