@@ -17,7 +17,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="33" alt="PHP" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="33" alt="C" /></td>
 <!--     <td rowspan="3">
-        - Telegram:<br>
+        - Telegram:<br>ddd
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@stormunicorn<br>
         - Discord:<br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stormunicorn<br>
