@@ -1,27 +1,29 @@
 <h1 align="center">Hi 👋, Here's MERN Stack Developer for Business & Betting Site</h1>
 
-<h4>🛠️ 💻 Technical Main Skills:</h4>
-<img align="right" src="assets/stormunicorn.png" width="140"/>
+<h4>🛠️ 💻 Technical Main Skills</h4>
+<img align="right" src="assets/stormunicorn.png" width="190"/>
 <!-- <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="120" /> -->
 <table align="center">
-  <tr>
-    <th colspan="7">Programming Languages, Libraries & Frameworks</th> 
-    <th colspan="">Contact me via</th> 
-  </tr>  
-  <tr>
+  <tr> 
+    <th colspan="7">Programming Languages, Libraries & Frameworks</th>
+<!--     <th colspan="">Please contact me via</th> -->
+  </tr>
+  <tr> 
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="33" alt="JavaScript" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="33" alt="TypeScript" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="33" alt="Python" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="33" alt="PHP" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="33" alt="C" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="33" alt="HTML" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="33" alt="CSS" /></td>
-    <td rowspan="3">
-        <!-- - Telegram: @stormunicorn<br> -->
-        - Discord: stormunicorn<br>
-    </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="33" alt="PHP" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="33" alt="C" /></td>
+<!--     <td rowspan="3">
+        - Telegram:<br>ddd
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@stormunicorn<br>
+        - Discord:<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stormunicorn<br>
+    </td> -->
   </tr>
-  <tr>
+  <tr> 
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="33" height="33"/></td>
     <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="33" /></td>
 <!--     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="33" alt="ReactJS" width="33" height="33"/></td> -->
