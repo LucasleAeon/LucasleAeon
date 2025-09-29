@@ -4,7 +4,7 @@
 <img align="right" src="assets/stormunicorn.png" width="190"/>
 <!-- <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="120" /> -->
 <table align="center">
-  <tr>
+  <tr> 
     <th colspan="7">Programming Languages, Libraries & Frameworks</th>
 <!--     <th colspan="">Please contact me via</th> -->
   </tr>  
