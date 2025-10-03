@@ -23,7 +23,7 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stormunicorn<br>
     </td> -->
   </tr>
-  <tr> 
+  <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="33" height="33"/></td>
     <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="33" /></td>
 <!--     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="33" alt="ReactJS" width="33" height="33"/></td> -->
